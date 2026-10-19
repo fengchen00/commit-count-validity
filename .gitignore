@@ -1,0 +1,12 @@
+# 原始数据、明细与重跑输出不入库；目录由 .gitkeep 占位
+data/raw/*
+data/derived/*
+data/swechat/*
+doc/v4.0/results/*
+doc/v4.0/figures/*
+!**/.gitkeep
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
